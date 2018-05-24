@@ -1,3 +1,4 @@
+// Add a comment
 var ClioBaseApi = /** @class */ (function () {
     function ClioBaseApi(dataToSend, accessToken, fields) {
         this.isBulk = false;
